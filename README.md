@@ -36,7 +36,8 @@ Quick Started
 2、在MySQL中建立zhihu数据库,将data.sql（下方网盘链接）导入</br>
 3、将zhihu数据库中需要搜索的数据导入ElasticSearch，这里我采用的导入工具是elasticsearch-jdbc</br>
 4、将项目导入IDEA,运行（注意：之前别忘了启动mysql，redis，ElasticSearch）</br>
-5、在登录注册界面可以自己注册，也可以使用测试账号登录：用户名：18812345678 密码：123456</br>
+5、在登录注册界面可以自己注册，也可以微博登录
+网址  naivee.com
 
 ####注意
 1、由于data.sql太大，这里通过百度网盘提供下载：http://pan.baidu.com/s/1dFj6wJf  
